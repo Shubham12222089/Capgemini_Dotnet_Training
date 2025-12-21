@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll

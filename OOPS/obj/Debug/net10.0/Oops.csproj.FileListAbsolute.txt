@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\bin\Debug\net10.0\Oops.exe
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\bin\Debug\net10.0\Oops.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\bin\Debug\net10.0\Oops.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\bin\Debug\net10.0\Oops.dll
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\bin\Debug\net10.0\Oops.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\obj\Debug\net10.0\Oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\obj\Debug\net10.0\Oops.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\obj\Debug\net10.0\Oops.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\obj\Debug\net10.0\Oops.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\obj\Debug\net10.0\Oops.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\obj\Debug\net10.0\Oops.dll
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\obj\Debug\net10.0\refint\Oops.dll
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\obj\Debug\net10.0\Oops.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\obj\Debug\net10.0\Oops.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\OOPS\obj\Debug\net10.0\ref\Oops.dll
