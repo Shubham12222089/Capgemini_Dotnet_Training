@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\OOPS\\Oops.csproj": {}
+    "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\OOPS\\Oops.csproj": {}
   },
   "projects": {
-    "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\OOPS\\Oops.csproj": {
+    "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\OOPS\\Oops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\OOPS\\Oops.csproj",
+        "projectUniqueName": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\OOPS\\Oops.csproj",
         "projectName": "Oops",
-        "projectPath": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\OOPS\\Oops.csproj",
+        "projectPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\OOPS\\Oops.csproj",
         "packagesPath": "C:\\Users\\shubh\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\OOPS\\obj\\",
+        "outputPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\OOPS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shubh\\AppData\\Roaming\\NuGet\\NuGet.Config"

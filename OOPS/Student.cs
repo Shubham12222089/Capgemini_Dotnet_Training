@@ -1,3 +1,8 @@
+//why we use properties?
+// Properties provide a flexible mechanism to read, write, or compute the values of private fields.
+// They are special methods called accessors that are used to access private fields.
+// Properties can be used as if they are public data members, but they actually include special methods
+
 // // Using getters and setters (properties)
 // class Student
 // {
