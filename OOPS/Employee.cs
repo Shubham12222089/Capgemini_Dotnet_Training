@@ -40,9 +40,9 @@ class Employee
         Console.WriteLine("Enter Id: ");
         Id = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Enter Employee Name: ");
-        Names=Console.ReadLine();
+        Names = Console.ReadLine() ?? string.Empty;
         Console.WriteLine("Enter Employee Department: ");
-        Department=Console.ReadLine();
+        Department = Console.ReadLine() ?? string.Empty;
         Console.WriteLine("Enter Employee Salary: ");
         Salary=Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Enter Employee Status on project :True or False");

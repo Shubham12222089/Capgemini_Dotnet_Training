@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\bin\Debug\net10.0\Inheritance.exe
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\bin\Debug\net10.0\Inheritance.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\bin\Debug\net10.0\Inheritance.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\bin\Debug\net10.0\Inheritance.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\bin\Debug\net10.0\Inheritance.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\obj\Debug\net10.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\obj\Debug\net10.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\obj\Debug\net10.0\Inheritance.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\obj\Debug\net10.0\Inheritance.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\obj\Debug\net10.0\refint\Inheritance.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\obj\Debug\net10.0\Inheritance.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\obj\Debug\net10.0\Inheritance.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Inheritance\obj\Debug\net10.0\ref\Inheritance.dll

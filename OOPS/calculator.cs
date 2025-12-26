@@ -39,6 +39,15 @@ public class Calculator
         this.number2 = number2;
     }
 
+    //copy constructor
+    
+
+    //static Constructor
+    static Calculator()
+    {
+        Console.WriteLine("Static Constructor called. Calculator class is being used.");
+    }
+
     // Method with parameters and return type
     public int Add(int number1, int number2)
     {
