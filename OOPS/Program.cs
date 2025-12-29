@@ -140,20 +140,33 @@ using System;
 // }
 
 //----------------------------------------
+// class Program
+// {
+//     public static void Main(string[] args)
+//     {
+//         Furniture furniture;
+//         Bookshelve bookshelves = new Bookshelve();
+//         bookshelves.Accept();
+//         bookshelves.Display();
+
+//         Chair chair = new Chair();
+//         chair.Accept();
+//         chair.Display();
+
+//         furniture = bookshelves;
+//     }
+// }
+
+//-------------Interface--------------------
+
 class Program
 {
     public static void Main(string[] args)
     {
-        Furniture furniture;
-        Bookshelve bookshelves = new Bookshelve();
-        bookshelves.Accept();
-        bookshelves.Display();
+        IPayment payment;
+        payment = new CreditCardPayment();
+        payment.Refund(1000.0);
+        payment.Pay(1000.0);
 
-        Chair chair = new Chair();
-        chair.Accept();
-        chair.Display();
-
-        furniture = bookshelves;
     }
 }
-

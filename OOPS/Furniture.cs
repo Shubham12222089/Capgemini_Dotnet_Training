@@ -1,4 +1,6 @@
 using System;
+
+//we make abstract class because we want to override its methods in derived class
 public abstract class Furniture
 {
     protected int num;

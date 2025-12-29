@@ -20,6 +20,7 @@ class Employee
         this.Salary=salary;
     }
 
+    //Override using ToString
     public override string ToString()
     {
         return $"Employee Details are\n"

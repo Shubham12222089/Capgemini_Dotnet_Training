@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\bin\Debug\net10.0\Assignment5.exe
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\bin\Debug\net10.0\Assignment5.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\bin\Debug\net10.0\Assignment5.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\bin\Debug\net10.0\Assignment5.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\bin\Debug\net10.0\Assignment5.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\obj\Debug\net10.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\obj\Debug\net10.0\Assignment5.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\obj\Debug\net10.0\Assignment5.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\obj\Debug\net10.0\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\obj\Debug\net10.0\Assignment5.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\obj\Debug\net10.0\Assignment5.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\obj\Debug\net10.0\refint\Assignment5.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\obj\Debug\net10.0\Assignment5.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\obj\Debug\net10.0\Assignment5.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment5\obj\Debug\net10.0\ref\Assignment5.dll
