@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\bin\Debug\net10.0\ArrayClass.exe
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\bin\Debug\net10.0\ArrayClass.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\bin\Debug\net10.0\ArrayClass.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\bin\Debug\net10.0\ArrayClass.dll
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\bin\Debug\net10.0\ArrayClass.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\obj\Debug\net10.0\ArrayClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\obj\Debug\net10.0\ArrayClass.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\obj\Debug\net10.0\ArrayClass.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\obj\Debug\net10.0\ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\obj\Debug\net10.0\ArrayClass.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\obj\Debug\net10.0\ArrayClass.dll
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\obj\Debug\net10.0\refint\ArrayClass.dll
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\obj\Debug\net10.0\ArrayClass.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\obj\Debug\net10.0\ArrayClass.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\ArrayClass\obj\Debug\net10.0\ref\ArrayClass.dll
