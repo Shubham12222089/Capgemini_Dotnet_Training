@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\obj\Debug\net10.0\Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\obj\Debug\net10.0\Assignment6.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\obj\Debug\net10.0\Assignment6.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\obj\Debug\net10.0\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\obj\Debug\net10.0\Assignment6.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\bin\Debug\net10.0\Assignment6.exe
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\bin\Debug\net10.0\Assignment6.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\bin\Debug\net10.0\Assignment6.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\bin\Debug\net10.0\Assignment6.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\bin\Debug\net10.0\Assignment6.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\obj\Debug\net10.0\Assignment6.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\obj\Debug\net10.0\refint\Assignment6.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\obj\Debug\net10.0\Assignment6.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\obj\Debug\net10.0\Assignment6.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment6\obj\Debug\net10.0\ref\Assignment6.dll

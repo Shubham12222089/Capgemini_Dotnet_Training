@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\bin\Debug\net10.0\StringBuilder.exe
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\bin\Debug\net10.0\StringBuilder.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\bin\Debug\net10.0\StringBuilder.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\bin\Debug\net10.0\StringBuilder.dll
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\bin\Debug\net10.0\StringBuilder.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\obj\Debug\net10.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\obj\Debug\net10.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\obj\Debug\net10.0\StringBuilder.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\obj\Debug\net10.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\obj\Debug\net10.0\StringBuilder.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\obj\Debug\net10.0\StringBuilder.dll
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\obj\Debug\net10.0\refint\StringBuilder.dll
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\obj\Debug\net10.0\StringBuilder.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\obj\Debug\net10.0\StringBuilder.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\StringBuilder\obj\Debug\net10.0\ref\StringBuilder.dll
