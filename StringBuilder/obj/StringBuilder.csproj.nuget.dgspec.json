@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\StringBuilder\\StringBuilder.csproj": {}
+    "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\StringBuilder\\StringBuilder.csproj": {}
   },
   "projects": {
-    "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\StringBuilder\\StringBuilder.csproj": {
+    "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\StringBuilder\\StringBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\StringBuilder\\StringBuilder.csproj",
+        "projectUniqueName": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\StringBuilder\\StringBuilder.csproj",
         "projectName": "StringBuilder",
-        "projectPath": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\StringBuilder\\StringBuilder.csproj",
+        "projectPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\StringBuilder\\StringBuilder.csproj",
         "packagesPath": "C:\\Users\\shubh\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\StringBuilder\\obj\\",
+        "outputPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\StringBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shubh\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -57,6 +57,22 @@ class Program
         {
             Console.Write(item+" ");
         }
+        Console.WriteLine($"\nAfter Inserting 25 at index 3: ");
+        list.Insert(3,25);
+        foreach(var item in list)
+        {
+            Console.Write(item+" ");
+        }
+        ArrayList list2 = new ArrayList();
+        list2.Add(1);
+        list2.Add(3);
+        list2.Add(9);
+        list.InsertRange(5,list2);
+        Console.WriteLine("\nAfter inserting a second list: ");
+        foreach(var item in list)
+        {
+            Console.Write(item+" ");
+        }
     }
 }
 
