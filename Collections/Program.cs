@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.ObjectModel;
+using System.Data.Common;
 using System.Net.NetworkInformation;
 
 internal class Program
@@ -147,22 +148,116 @@ internal class Program
         //answer : This is the exact point where most people get confused, so let’s clear it cleanly and logically.
         //Console.WriteLine(y);
 
+        //------------------Generic vs non generic Implementation--------------------------
+        // AddClass addClass = new AddClass();
+        // Console.WriteLine($"Sum of the Integer is : {addClass.AddInt(30,20)}");
+        // Console.WriteLine($"Sum of the Float is : {addClass.AddFloat(30.10f,20.03f)}");
+        // Console.WriteLine($"Sum of the String is : {addClass.AddString("Abc","Def")}");
 
-        AddClass addClass = new AddClass();
-        Console.WriteLine($"Sum of the Integer is : {addClass.AddInt(30,20)}");
-        Console.WriteLine($"Sum of the Float is : {addClass.AddFloat(30.10f,20.03f)}");
-        Console.WriteLine($"Sum of the String is : {addClass.AddString("Abc","Def")}");
+        // //generic class
+        // AddGenericClass<int> addInteger1 = new AddGenericClass<int>();
+        // Console.WriteLine($"Sum of the Integer using Generic Class is : {addInteger1.AddAllType(30,20)}");
 
-        //generic class
-        AddGenericClass<int> addInteger1 = new AddGenericClass<int>();
-        Console.WriteLine($"Sum of the Integer using Generic Class is : {addInteger1.AddAllType(30,20)}");
+        // AddGenericClass<float> addFloat = new AddGenericClass<float>();
+        // Console.WriteLine($"Sum of the float using Generic Class is : {addFloat.AddAllType(20.03f,27.20f)}");
 
-        AddGenericClass<float> addFloat = new AddGenericClass<float>();
-        Console.WriteLine($"Sum of the float using Generic Class is : {addFloat.AddAllType(20.03f,27.20f)}");
+        // AddGenericClass<string> addString = new AddGenericClass<string>();
+        // Console.WriteLine($"Sum of the String using Generic Class is : {addString.AddAllType("Abc","Def")}");
+        
+        // List<string> employee = new List<string>();
+        // employee.Add("Rajesh");
+        // Employee employee1 = new Employee()
+        // {
+        //     Id=10,
+        //     Name="Sumit"
+        // };
+        // Employee employee2 = new Employee()
+        // {
+        //     Id=20,
+        //     Name="John"
+        // };
 
-        AddGenericClass<string> addString = new AddGenericClass<string>();
-        Console.WriteLine($"Sum of the String using Generic Class is : {addString.AddAllType("Abc","Def")}");
-        //AddGenericClass<int> addInteger2 = new AddGenericClass<int>(20,30);
+        // List<Employee> employees = new List<Employee>();
+        // employees.Add(employee1);
+        // employees.Add(employee2);
+        // foreach(var e in employees)
+        // {
+        //     Console.WriteLine(e);
+        // }
 
+        // Dictionary<int,string> dictionary = new Dictionary<int, string>();
+        // dictionary.Add(100,"Rajesh");
+        // dictionary.Add(200,"Mahesh");
+        // foreach(KeyValuePair<int,string> key in dictionary)
+        // {
+        //     Console.WriteLine(key);
+        // }
+
+        // SortedList<string,string> pairs = new SortedList<string, string>();
+        // pairs.Add("100","Abc");
+        // pairs.Add("900","def");
+        // pairs.Add("300","ghi");
+        // Console.WriteLine("Sorted List : ");
+        // foreach(KeyValuePair<string,string> p in pairs)
+        // {
+        //     Console.WriteLine($"Key is {p.Key} and value is {p.Value}");
+        // }
+
+        // Stack<char> stack = new Stack<char>(); //generic stack
+        // stack.Push('A');
+        // stack.Push('B');
+        // stack.Push('C');
+        
+        // Console.Write("Stack: ");
+        // foreach(var s in stack)
+        // {
+        //     Console.Write(s+" ");
+        // }
+        // stack.Pop();
+        // Console.WriteLine();
+        // Console.Write("After Popping: ");
+        // foreach(var s in stack)
+        // {
+        //     Console.Write(s+" ");
+        // }
+        // Console.WriteLine();
+        // Console.Write("Queue: ");
+        // Queue<char> queue = new Queue<char>();
+        // queue.Enqueue('A');
+        // queue.Enqueue('B');
+        // queue.Enqueue('C');
+        // foreach(var q in queue)
+        // {
+        //     Console.Write(q+" ");
+        // }
+        // queue.Dequeue();
+        // Console.WriteLine();
+        // Console.Write("After Deque: ");
+        // foreach(var q in queue)
+        // {
+        //     Console.Write(q+" ");
+        // }
+
+
+        //------------Custom Collection------------------
+        
+        MyCollection obj = new MyCollection();
+        foreach(int i in obj)
+        {
+            Console.WriteLine(i);
+        }
     }
 }
+
+class MyCollection : IEnumerable
+{
+    int[] data = {1,2,3};
+    public IEnumerator GetEnumerator()
+    {
+        return data.GetEnumerator();
+    }
+
+
+
+}
+

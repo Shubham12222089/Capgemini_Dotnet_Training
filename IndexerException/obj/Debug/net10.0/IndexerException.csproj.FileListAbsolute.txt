@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\obj\Debug\net10.0\IndexerException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\obj\Debug\net10.0\IndexerException.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\obj\Debug\net10.0\IndexerException.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\obj\Debug\net10.0\IndexerException.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\obj\Debug\net10.0\IndexerException.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\bin\Debug\net10.0\IndexerException.exe
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\bin\Debug\net10.0\IndexerException.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\bin\Debug\net10.0\IndexerException.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\bin\Debug\net10.0\IndexerException.dll
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\bin\Debug\net10.0\IndexerException.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\obj\Debug\net10.0\IndexerException.dll
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\obj\Debug\net10.0\refint\IndexerException.dll
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\obj\Debug\net10.0\IndexerException.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\obj\Debug\net10.0\IndexerException.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\IndexerException\obj\Debug\net10.0\ref\IndexerException.dll

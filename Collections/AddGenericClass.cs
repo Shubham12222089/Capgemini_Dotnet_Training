@@ -2,7 +2,7 @@ using System;
 
 class AddGenericClass<T> //Generic Class
 {
-    T n1;
+    T n1; //generic Variable
     T n2;
     T result;
     //Generic Constructor
