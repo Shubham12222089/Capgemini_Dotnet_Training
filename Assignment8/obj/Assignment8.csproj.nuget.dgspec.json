@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\IndexerException\\IndexerException.csproj": {}
+    "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment8\\Assignment8.csproj": {}
   },
   "projects": {
-    "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\IndexerException\\IndexerException.csproj": {
+    "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment8\\Assignment8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\IndexerException\\IndexerException.csproj",
-        "projectName": "IndexerException",
-        "projectPath": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\IndexerException\\IndexerException.csproj",
+        "projectUniqueName": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment8\\Assignment8.csproj",
+        "projectName": "Assignment8",
+        "projectPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment8\\Assignment8.csproj",
         "packagesPath": "C:\\Users\\shubh\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\IndexerException\\obj\\",
+        "outputPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shubh\\AppData\\Roaming\\NuGet\\NuGet.Config"

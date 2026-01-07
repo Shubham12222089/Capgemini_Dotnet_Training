@@ -55,16 +55,16 @@ using System;
 //         // Console.WriteLine($"Square of {a} is {square} and Cube of {b} is {cube}");
 //         // Console.ReadKey();
 
-//         StaticDemo sd1 = new StaticDemo();
-//         sd1.var=30;
-//         sd1.count();
-//         sd1.count();
-//         sd1.count();
-//         Console.WriteLine($"Instance variable after increment: {sd1.display()}");
+        // StaticDemo sd1 = new StaticDemo();
+        // sd1.var=30;
+        // sd1.count();
+        // sd1.count();
+        // sd1.count();
+        // Console.WriteLine($"Instance variable after increment: {sd1.display()}");
 
-//         StaticDemo sd2 = new StaticDemo();
-//         sd2.count();
-//         Console.WriteLine($"Instance variable of new object: {sd2.display()}");
+        // StaticDemo sd2 = new StaticDemo();
+        // sd2.count();
+        // Console.WriteLine($"Instance variable of new object: {sd2.display()}");
 //     }
 // }
 

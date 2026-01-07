@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\IndexerException\\IndexerException.csproj": {}
+    "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Exception\\Exception.csproj": {}
   },
   "projects": {
-    "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\IndexerException\\IndexerException.csproj": {
+    "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Exception\\Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\IndexerException\\IndexerException.csproj",
-        "projectName": "IndexerException",
-        "projectPath": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\IndexerException\\IndexerException.csproj",
+        "projectUniqueName": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Exception\\Exception.csproj",
+        "projectName": "Exception",
+        "projectPath": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Exception\\Exception.csproj",
         "packagesPath": "C:\\Users\\shubh\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\IndexerException\\obj\\",
+        "outputPath": "c:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Exception\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shubh\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\bin\Debug\net10.0\Assignment8.exe
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\bin\Debug\net10.0\Assignment8.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\bin\Debug\net10.0\Assignment8.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\bin\Debug\net10.0\Assignment8.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\bin\Debug\net10.0\Assignment8.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\obj\Debug\net10.0\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\obj\Debug\net10.0\Assignment8.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\obj\Debug\net10.0\Assignment8.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\obj\Debug\net10.0\Assignment8.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\obj\Debug\net10.0\Assignment8.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\obj\Debug\net10.0\Assignment8.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\obj\Debug\net10.0\refint\Assignment8.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\obj\Debug\net10.0\Assignment8.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\obj\Debug\net10.0\Assignment8.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment8\obj\Debug\net10.0\ref\Assignment8.dll
