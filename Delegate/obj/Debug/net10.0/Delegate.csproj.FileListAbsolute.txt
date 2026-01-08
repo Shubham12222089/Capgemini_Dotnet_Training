@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\bin\Debug\net10.0\Delegate.exe
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\bin\Debug\net10.0\Delegate.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\bin\Debug\net10.0\Delegate.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\bin\Debug\net10.0\Delegate.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\bin\Debug\net10.0\Delegate.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\obj\Debug\net10.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\obj\Debug\net10.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\obj\Debug\net10.0\Delegate.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\obj\Debug\net10.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\obj\Debug\net10.0\Delegate.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\obj\Debug\net10.0\Delegate.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\obj\Debug\net10.0\refint\Delegate.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\obj\Debug\net10.0\Delegate.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\obj\Debug\net10.0\Delegate.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Delegate\obj\Debug\net10.0\ref\Delegate.dll

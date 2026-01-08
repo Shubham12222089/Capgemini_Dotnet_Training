@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\bin\Debug\net10.0\ClassTest2.exe
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\bin\Debug\net10.0\ClassTest2.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\bin\Debug\net10.0\ClassTest2.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\bin\Debug\net10.0\ClassTest2.dll
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\bin\Debug\net10.0\ClassTest2.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\obj\Debug\net10.0\ClassTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\obj\Debug\net10.0\ClassTest2.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\obj\Debug\net10.0\ClassTest2.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\obj\Debug\net10.0\ClassTest2.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\obj\Debug\net10.0\ClassTest2.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\obj\Debug\net10.0\ClassTest2.dll
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\obj\Debug\net10.0\refint\ClassTest2.dll
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\obj\Debug\net10.0\ClassTest2.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\obj\Debug\net10.0\ClassTest2.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\ClassTest2\obj\Debug\net10.0\ref\ClassTest2.dll
