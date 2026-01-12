@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\bin\Debug\net10.0\Serialization.exe
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\bin\Debug\net10.0\Serialization.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\bin\Debug\net10.0\Serialization.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\bin\Debug\net10.0\Serialization.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\bin\Debug\net10.0\Serialization.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\obj\Debug\net10.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\obj\Debug\net10.0\Serialization.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\obj\Debug\net10.0\Serialization.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\obj\Debug\net10.0\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\obj\Debug\net10.0\Serialization.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\obj\Debug\net10.0\Serialization.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\obj\Debug\net10.0\refint\Serialization.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\obj\Debug\net10.0\Serialization.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\obj\Debug\net10.0\Serialization.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Serialization\obj\Debug\net10.0\ref\Serialization.dll
