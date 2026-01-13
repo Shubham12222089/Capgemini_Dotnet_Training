@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\bin\Debug\net10.0\Assignment11.exe
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\bin\Debug\net10.0\Assignment11.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\bin\Debug\net10.0\Assignment11.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\bin\Debug\net10.0\Assignment11.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\bin\Debug\net10.0\Assignment11.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\obj\Debug\net10.0\Assignment11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\obj\Debug\net10.0\Assignment11.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\obj\Debug\net10.0\Assignment11.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\obj\Debug\net10.0\Assignment11.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\obj\Debug\net10.0\Assignment11.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\obj\Debug\net10.0\Assignment11.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\obj\Debug\net10.0\refint\Assignment11.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\obj\Debug\net10.0\Assignment11.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\obj\Debug\net10.0\Assignment11.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment11\obj\Debug\net10.0\ref\Assignment11.dll

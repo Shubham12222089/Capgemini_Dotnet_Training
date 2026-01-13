@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\bin\Debug\net10.0\AnonymsClass.exe
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\bin\Debug\net10.0\AnonymsClass.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\bin\Debug\net10.0\AnonymsClass.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\bin\Debug\net10.0\AnonymsClass.dll
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\bin\Debug\net10.0\AnonymsClass.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\obj\Debug\net10.0\AnonymsClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\obj\Debug\net10.0\AnonymsClass.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\obj\Debug\net10.0\AnonymsClass.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\obj\Debug\net10.0\AnonymsClass.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\obj\Debug\net10.0\AnonymsClass.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\obj\Debug\net10.0\AnonymsClass.dll
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\obj\Debug\net10.0\refint\AnonymsClass.dll
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\obj\Debug\net10.0\AnonymsClass.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\obj\Debug\net10.0\AnonymsClass.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\AnonymsClass\obj\Debug\net10.0\ref\AnonymsClass.dll

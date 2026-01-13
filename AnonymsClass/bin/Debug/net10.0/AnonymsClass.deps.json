@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AnonymsClass/1.0.0": {
+        "runtime": {
+          "AnonymsClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnonymsClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment3\\Assignment3.csproj": {}
+    "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment\\Assignment3\\Assignment3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment3\\Assignment3.csproj": {
+    "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment\\Assignment3\\Assignment3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment3\\Assignment3.csproj",
+        "projectUniqueName": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment\\Assignment3\\Assignment3.csproj",
         "projectName": "Assignment3",
-        "projectPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment3\\Assignment3.csproj",
+        "projectPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment\\Assignment3\\Assignment3.csproj",
         "packagesPath": "C:\\Users\\shubh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment3\\obj\\",
+        "outputPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\.net\\Assignment\\Assignment3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\shubh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\shubh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
