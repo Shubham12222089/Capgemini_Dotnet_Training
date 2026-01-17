@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\bin\Debug\net10.0\RegexAssignment13.exe
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\bin\Debug\net10.0\RegexAssignment13.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\bin\Debug\net10.0\RegexAssignment13.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\bin\Debug\net10.0\RegexAssignment13.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\bin\Debug\net10.0\RegexAssignment13.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\obj\Debug\net10.0\RegexAssignment13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\obj\Debug\net10.0\RegexAssignment13.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\obj\Debug\net10.0\RegexAssignment13.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\obj\Debug\net10.0\RegexAssignment13.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\obj\Debug\net10.0\RegexAssignment13.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\obj\Debug\net10.0\RegexAssignment13.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\obj\Debug\net10.0\refint\RegexAssignment13.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\obj\Debug\net10.0\RegexAssignment13.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\obj\Debug\net10.0\RegexAssignment13.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\RegexAssignment13\obj\Debug\net10.0\ref\RegexAssignment13.dll

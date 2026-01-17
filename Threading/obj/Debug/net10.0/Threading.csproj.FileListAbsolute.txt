@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\bin\Debug\net10.0\Threading.exe
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\bin\Debug\net10.0\Threading.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\bin\Debug\net10.0\Threading.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\bin\Debug\net10.0\Threading.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\bin\Debug\net10.0\Threading.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\obj\Debug\net10.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\obj\Debug\net10.0\Threading.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\obj\Debug\net10.0\Threading.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\obj\Debug\net10.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\obj\Debug\net10.0\Threading.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\obj\Debug\net10.0\Threading.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\obj\Debug\net10.0\refint\Threading.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\obj\Debug\net10.0\Threading.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\obj\Debug\net10.0\Threading.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Threading\obj\Debug\net10.0\ref\Threading.dll

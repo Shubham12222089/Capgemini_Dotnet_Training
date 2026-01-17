@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\bin\Debug\net10.0\AttributeAndReflection.exe
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\bin\Debug\net10.0\AttributeAndReflection.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\bin\Debug\net10.0\AttributeAndReflection.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\bin\Debug\net10.0\AttributeAndReflection.dll
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\bin\Debug\net10.0\AttributeAndReflection.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\obj\Debug\net10.0\AttributeAndReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\obj\Debug\net10.0\AttributeAndReflection.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\obj\Debug\net10.0\AttributeAndReflection.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\obj\Debug\net10.0\AttributeAndReflection.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\obj\Debug\net10.0\AttributeAndReflection.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\obj\Debug\net10.0\AttributeAndReflection.dll
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\obj\Debug\net10.0\refint\AttributeAndReflection.dll
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\obj\Debug\net10.0\AttributeAndReflection.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\obj\Debug\net10.0\AttributeAndReflection.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\AttributeAndReflection\obj\Debug\net10.0\ref\AttributeAndReflection.dll

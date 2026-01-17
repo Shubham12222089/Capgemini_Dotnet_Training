@@ -1,0 +1,15 @@
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\bin\Debug\net10.0\Assignment_GarbageCollection14.exe
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\bin\Debug\net10.0\Assignment_GarbageCollection14.deps.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\bin\Debug\net10.0\Assignment_GarbageCollection14.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\bin\Debug\net10.0\Assignment_GarbageCollection14.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\bin\Debug\net10.0\Assignment_GarbageCollection14.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\obj\Debug\net10.0\Assignment_GarbageCollection14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\obj\Debug\net10.0\Assignment_GarbageCollection14.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\obj\Debug\net10.0\Assignment_GarbageCollection14.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\obj\Debug\net10.0\Assignment_GarbageCollection14.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\obj\Debug\net10.0\Assignment_GarbageCollection14.sourcelink.json
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\obj\Debug\net10.0\Assignment_GarbageCollection14.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\obj\Debug\net10.0\refint\Assignment_GarbageCollection14.dll
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\obj\Debug\net10.0\Assignment_GarbageCollection14.pdb
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\obj\Debug\net10.0\Assignment_GarbageCollection14.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\.net\Assignment\Assignment_GarbageCollection14\obj\Debug\net10.0\ref\Assignment_GarbageCollection14.dll
